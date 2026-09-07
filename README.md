@@ -2,3 +2,4 @@
 - GET /health returns OK
 
 Documentation pending.
+
